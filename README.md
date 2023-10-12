@@ -29,6 +29,6 @@ Just copy and paste the included code into a cell and execute. If any problems a
 
 >#### ⚠️ Disclaimer ⚠️
 
-Much of the starter code is derived from Google Samples at the moment. I have added some custom stylizing and made some debugging efforts, but I don't take credit for technological implementation yet. I will be adding more to this repository over the next several months, with works to capture the data from MediaPipe. All of that programming will be of my works, but feel free to use it for whatever you may need. Credit me if you feel like it, but I won't be upset if not. 
+Much of the starter code is derived from Google Samples at the moment. I have added some custom stylizing and made some debugging efforts, but I don't take credit for technological implementation of Model Imports. I will be adding more to this repository over the next several months, with works to capture the data from MediaPipe. All of that programming will be of my works, but feel free to use it for whatever you may need. Credit me if you feel like it, but I won't be upset if not. 
 
 
