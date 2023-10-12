@@ -24,7 +24,7 @@ I haven't learned Python Environments yet (not on agenda at the moment), so this
 
 Here is a link to the latest Online Lite Lab (Browser-Version): [Jupyter Notebook](https://jupyter.org/try-jupyter/lab/?path=notebooks%2FIntro.ipynb)
 
-Just copy and past the included code into a cell and execute. If any problems arrise, split the code into smaller cells or walkthrough it one line at a time. 
+Just copy and paste the included code into a cell and execute. If any problems arrise, split the code into smaller cells or walkthrough it one line at a time. 
 <hr>
 
 >#### ⚠️ Disclaimer ⚠️
